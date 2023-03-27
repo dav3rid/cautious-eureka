@@ -5,4 +5,5 @@ Its intention is still ambiguous!
 
 Functions:
 
-- Some random stuff that I should have put on another branch!
+- `add` - takes two numerical arguments and returns their sum
+- `multiply` - takes two numerical arguments and returns their product
